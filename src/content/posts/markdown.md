@@ -9,3 +9,5 @@ draft: false
 ---
 
 Erika, please, if you have anything, just type it in here and all the contents of specification. 
+
+Well, the documentation is already at https://fumika-demo.netlify.app/ site and their GitHub repo. 
